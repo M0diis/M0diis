@@ -4,7 +4,7 @@ I am a Computer Science student that loves programming and coding various things
 I have experience in quite an amount of languages and frameworks.
 
 - 🔭 I’m currently working on several Minecraft related projects such as **M0-CoreCord** and **M0-OnlinePlayersGUI**.
-- 🌱 Currently in my second year of studying** Computer Science**.
+- 🌱 Currently in my second year of studying **Computer Science**.
 - ⭐ I code and have experience in various languages such as JavaScript, Java, C#, PHP.
 
 » You can reach and contact me on my private discord or public development discord server:  

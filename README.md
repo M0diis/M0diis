@@ -13,7 +13,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 » You can find my minecraft plugins on my SpigotMC page:  
 https://www.spigotmc.org/resources/authors/m0dii.450794/
 
-#### 👨🏻‍💻 Tools and Software 
+#### 👨🏻‍💻 Tools and Software I use
 
 - VSCode https://code.visualstudio.com & https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 - IntelliJ IDEA https://www.jetbrains.com/idea & https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme
@@ -47,7 +47,7 @@ My skills and understandment of language is divided into A, B and C tiers.
 
 ##### B Tier
 - PHP
-- MySQL (SQL)
+- SQL
 
 ##### C Tier
 - C
@@ -56,6 +56,3 @@ My skills and understandment of language is divided into A, B and C tiers.
 <p class="center">
 <img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/overview.svg"><img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/languages.svg">
 </p>
-
-
-

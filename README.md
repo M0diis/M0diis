@@ -28,6 +28,8 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 ##### Other
 
 - PhpMyAdmin
+- Git
+- Jira
 - Bash
 - Shell
 - Linux

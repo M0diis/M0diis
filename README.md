@@ -3,7 +3,7 @@
 I am a Computer Science student that loves programming and coding various things.
 I have experience in quite an amount of languages and frameworks and always enjoy to learn something new.
 
-- 🔭 I’m currently working on several Minecraft related projects such as **M0-CoreCord** and **M0-OnlinePlayersGUI**.
+- 🔭 I’m currently working on several Minecraft related projects (server plugins) such as **M0-CoreCord** and **M0-OnlinePlayersGUI**.
 - 🌱 Currently in my second year of studying **Computer Science**.
 - ⭐ I code and have experience in various languages such as JavaScript, Java, C#, PHP.
 
@@ -27,6 +27,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 
 ##### Other
 
+- PhpMyAdmin
 - Bash
 - Shell
 - Linux

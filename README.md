@@ -1,3 +1,5 @@
+<img src="https://badges.pufler.dev/visits/M0diis/M0diis"> <img src="https://badges.pufler.dev/repos/M0diis"> <img src="https://badges.pufler.dev/gists/M0diis"> <img src="https://badges.pufler.dev/commits/yearly/M0diis">
+
 ### Hello 👋
 
 I am a Computer Science student that loves programming and coding various things.

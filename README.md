@@ -48,7 +48,7 @@ My skills and understandment of language is divided into A, B and C tiers.
 - PHP
 - MySQL (SQL)
 
-#### C Tier
+##### C Tier
 - C
 - C++
 - Python

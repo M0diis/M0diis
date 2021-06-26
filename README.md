@@ -7,7 +7,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - 🌱 Currently in my second year of studying **Computer Science**.
 - ⭐ I code and have experience in various languages such as JavaScript, Java, C#, PHP.
 
-» You can reach and contact me on my private discord or public development discord server:  
+» You can reach and contact me directly through my discord account or public development discord server:  
 **M0dii#2719** or **https://discord.com/invite/ZSzJTSWxmv**
 
 » You can find my minecraft plugins on my SpigotMC page:  

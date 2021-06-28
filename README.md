@@ -29,10 +29,10 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 
 ##### Other
 
-- PhpMyAdmin
-- Git
-- Jira
-- Bash
+- PhpMyAdmin https://www.phpmyadmin.net/
+- Git https://git-scm.com/
+- Jira https://www.atlassian.com/software/jira
+- Bash 
 - Shell
 - Linux
 - Ubuntu

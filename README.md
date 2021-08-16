@@ -46,7 +46,7 @@ My skills and understandment of language is divided into A, B and C tiers.
 
 ##### A Tier
 - C#
-- Java
+- Java & Gradle
 - Javascript & Node/NPM
 - HTML & CSS
 

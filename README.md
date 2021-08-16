@@ -21,6 +21,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - IntelliJ IDEA https://www.jetbrains.com/idea & https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme
 - Visual Studio 17/19 https://visualstudio.microsoft.com/vs & https://www.jetbrains.com/resharper/
 - Notepad++ https://notepad-plus-plus.org & https://github.com/hellon8/VS2019-Dark-Npp
+- TablePlus https://tableplus.com/
 - AutoHotkey https://www.autohotkey.com
 - WinSCP https://winscp.net
 - AltDrag https://stefansundin.github.io/altdrag

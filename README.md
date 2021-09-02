@@ -65,6 +65,8 @@ My skills and understandment of language is divided into A, B and C tiers.
 - Kotlin
 - Rust
 - GoLang
+- React
+- Vue
 
 <p class="center">
 <img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/overview.svg"><img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/languages.svg">

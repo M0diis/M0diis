@@ -6,7 +6,7 @@ I am a Computer Science student that loves programming and coding various things
 I have experience in quite an amount of languages and frameworks and always enjoy to learn something new.
 
 - 🔭 I’m currently working on several Minecraft related projects (server plugins) such as **M0-CoreCord** and **M0-OnlinePlayersGUI**.
-- 🌱 Currently in my second year of studying **Computer Science**.
+- 🌱 Currently in my third year of **Computer Science**.
 - ⭐ I code and have experience in various languages such as JavaScript, Java, C#, PHP.
 
 » You can reach and contact me directly through my discord account or public development discord server:  
@@ -52,6 +52,7 @@ My skills and understandment of language is divided into A, B and C tiers.
 - HTML & CSS
 
 ##### B Tier
+- SQL
 - PHP
 - SQL
 

@@ -53,17 +53,17 @@ My skills and understandment of language is divided into A, B and C tiers.
 
 ##### B Tier
 - SQL
-- PHP
+- PHP (Raw/Symfony)
 
 ##### C Tier
 - C
+- Go
 - C++
 - Python
 
 #### Planning to learn:
 - Kotlin
 - Rust
-- GoLang
 - React
 - Vue
 - Typescript

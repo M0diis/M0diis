@@ -15,7 +15,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 » You can find my minecraft plugins on my SpigotMC page:  
 https://www.spigotmc.org/resources/authors/m0dii.450794/
 
-#### 👨🏻‍💻 Tools and Software I use
+#### 👨🏻‍💻 Tools and Software I use and familar with
 
 - VSCode https://code.visualstudio.com & https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 - IntelliJ IDEA https://www.jetbrains.com/idea & https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme
@@ -43,20 +43,18 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 
 #### 🧩 Programming languages
 
-My skills and understandment of language is divided into A, B and C tiers.
-
-##### A Tier
+##### Advanced
 - C#
 - Java & Gradle
 - Javascript & Node/NPM
 - HTML & CSS
-
-##### B Tier
-- SQL
 - PHP (Raw/Symfony)
 
-##### C Tier
+##### Average
+- SQL
 - C
+
+##### Fundamentals
 - Go
 - C++
 - Python

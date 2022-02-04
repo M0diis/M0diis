@@ -17,25 +17,26 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 
 #### 👨🏻‍💻 Tools and Software I use and familar with
 
-- VSCode https://code.visualstudio.com & https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
-- IntelliJ IDEA https://www.jetbrains.com/idea & https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme
-- Visual Studio 17/19 https://visualstudio.microsoft.com/vs & https://www.jetbrains.com/resharper/
-- Notepad++ https://notepad-plus-plus.org & https://github.com/hellon8/VS2019-Dark-Npp
-- TablePlus https://tableplus.com/
-- AutoHotkey https://www.autohotkey.com
-- WinSCP https://winscp.net
-- AltDrag https://stefansundin.github.io/altdrag
-- Ueli https://ueli.app
-- Ditto https://ditto-cp.sourceforge.io
-- Unity https://unity.com/
+- [VSCode](https://code.visualstudio.com) & [Tokyo Night Theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea) & [Visual Studio Dark Plus Theme](https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme)
+- [Visual Studio](https://visualstudio.microsoft.com/vs) & [Resharper](https://www.jetbrains.com/resharper/)
+- [Notepad++](https://notepad-plus-plus.org) & [VS2019 Dark NPP Theme](https://github.com/hellon8/VS2019-Dark-Npp)
+- [TablePlus](https://tableplus.com/)
+- [AutoHotkey](https://www.autohotkey.com)
+- [WinSCP](https://winscp.net)
+- [AltDrag](https://stefansundin.github.io/altdrag)
+- [Ueli](https://ueli.app)
+- [Ditto](https://ditto-cp.sourceforge.io)
+- [Unity](https://unity.com/)
 
 ##### Other
 
-- PhpMyAdmin https://www.phpmyadmin.net/
-- Git https://git-scm.com/
-- Jira https://www.atlassian.com/software/jira
-- Bash 
+- [PhpMyAdmin](https://www.phpmyadmin.net/)
+- [Git](https://git-scm.com/)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Bash](https://www.gnu.org/software/bash/) 
 - Shell
+- [XAMPP](https://www.apachefriends.org/index.html)
 - Linux
 - Ubuntu
 - Debian
@@ -44,20 +45,20 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 #### 🧩 Programming languages
 
 ##### Advanced
-- C#
-- Java & Gradle
-- Javascript & Node/NPM
-- HTML & CSS
-- PHP (Raw/Symfony)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Java](https://docs.oracle.com/en/java/), [Gradle](https://docs.gradle.org/current/userguide/userguide.html), [Maven](https://maven.apache.org/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & Node/NPM
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [PHP](https://www.php.net/) ([Composer](https://getcomposer.org/), [Symfony](https://symfony.com/))
 
 ##### Average
-- SQL
-- C
+- [SQL](https://www.w3schools.com/sql/)
+- [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 
 ##### Fundamentals
-- Go
+- [Go](https://go.dev/)
 - C++
-- Python
+- [Python](https://www.python.org/)
 
 #### Planning to learn:
 - Kotlin

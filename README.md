@@ -68,5 +68,5 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - Typescript
 
 <p class="center">
-<img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/overview.svg"><img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/languages.svg">
+<img src="https://raw.githubusercontent.com/M0diis/M0diis/4af1368009341c33587de9b542b6225d28204337/generated/overview.svg"><img src="https://raw.githubusercontent.com/M0diis/M0diis/52b82ca54e7c71eb1081f3e9a8abd10357022a98/generated/languages.svg">
 </p>

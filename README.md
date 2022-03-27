@@ -32,6 +32,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 ##### Other
 
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
+- [pgAdmin](https://www.pgadmin.org/)
 - [Git](https://git-scm.com/)
 - [Jira](https://www.atlassian.com/software/jira)
 - [Bash](https://www.gnu.org/software/bash/) 

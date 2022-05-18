@@ -54,7 +54,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 ##### Advanced
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Java](https://docs.oracle.com/en/java/), [Gradle](https://docs.gradle.org/current/userguide/userguide.html), [Maven](https://maven.apache.org/)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [Node](https://nodejs.org/en/)/[NPM}(https://www.npmjs.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [Node](https://nodejs.org/en/)/[NPM](https://www.npmjs.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [PHP](https://www.php.net/) ([Composer](https://getcomposer.org/), [Symfony](https://symfony.com/))
 

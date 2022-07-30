@@ -22,8 +22,8 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Visual Studio](https://visualstudio.microsoft.com/vs) & [Resharper](https://www.jetbrains.com/resharper/)
 - [Rider](https://www.jetbrains.com/rider/)
 - [Notepad++](https://notepad-plus-plus.org) & [VS2019 Dark NPP Theme](https://github.com/hellon8/VS2019-Dark-Npp)
+- [Datalore](https://datalore.jetbrains.com/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- [TablePlus](https://tableplus.com/)
 - [AutoHotkey](https://www.autohotkey.com)
 - [WinSCP](https://winscp.net)
 - [AltDrag](https://stefansundin.github.io/altdrag)
@@ -34,6 +34,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Postman](https://www.postman.com/)
 - [DBeaver](https://dbeaver.io/)
 - [TablePlus](https://tableplus.com/)
+- [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Github Desktop](https://desktop.github.com/)
 
 ##### Other
@@ -60,19 +61,20 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 
 ##### Average
 - [SQL](https://www.w3schools.com/sql/)
-- [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
+- [Python](https://www.python.org/)
 
 ##### Fundamentals
 - [Go](https://go.dev/)
 - [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-- [Python](https://www.python.org/)
+- [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 
 #### Planning to learn:
-- Kotlin
-- Rust
-- React
-- Vue
-- Typescript
+- [Haskell](https://www.haskell.org/)
+- [Kotlin](https://kotlinlang.org/)
+- [Rust](https://www.rust-lang.org/)
+- [React](https://reactjs.org/)
+- [Vue](https://vuejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
 <p class="center">
   <img src="https://github.com/M0diis/M0diis/blob/output/generated/overview.svg">

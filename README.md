@@ -1,4 +1,4 @@
-<img src="https://badges.pufler.dev/commits/all/M0diis"> <img src="https://badges.pufler.dev/commits/yearly/M0diis"> <img src="https://badges.pufler.dev/commits/monthly/M0diis"> <img src="https://badges.pufler.dev/visits/M0diis/M0diis"> <img src="https://badges.pufler.dev/repos/M0diis"> <img src="https://badges.pufler.dev/gists/M0diis"> <img src="https://img.shields.io/discord/780152822682877952">
+<img src="https://badges.strrl.dev/commits/all/M0diis"> <img src="https://badges.strrl.dev/commits/yearly/M0diis"> <img src="https://badges.strrl.dev/commits/monthly/M0diis"> <img src="https://badges.strrl.dev/visits/M0diis/M0diis"> <img src="https://badges.strrl.dev/repos/M0diis"> <img src="https://badges.strrl.dev/gists/M0diis"> <img src="https://img.shields.io/discord/780152822682877952">
 
 ### Hello 👋
 

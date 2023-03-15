@@ -68,6 +68,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Go](https://go.dev/)
 - [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
+- [Typescript](https://www.typescriptlang.org/)
 
 #### Planning to learn:
 - [Haskell](https://www.haskell.org/)
@@ -75,7 +76,6 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Rust](https://www.rust-lang.org/)
 - [React](https://reactjs.org/)
 - [Vue](https://vuejs.org/)
-- [Typescript](https://www.typescriptlang.org/)
 
 <p class="center">
   <img src="https://github.com/M0diis/M0diis/blob/output/generated/overview.svg">

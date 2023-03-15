@@ -22,6 +22,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Visual Studio](https://visualstudio.microsoft.com/vs) & [Resharper](https://www.jetbrains.com/resharper/)
 - [Rider](https://www.jetbrains.com/rider/)
 - [Notepad++](https://notepad-plus-plus.org) & [VS2019 Dark NPP Theme](https://github.com/hellon8/VS2019-Dark-Npp)
+- [Sublime Text](https://www.sublimetext.com/)
 - [Datalore](https://datalore.jetbrains.com/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [AutoHotkey](https://www.autohotkey.com)

@@ -2,15 +2,13 @@
 
 ### Hello 👋
 
-I am a Computer Science student that loves programming and coding various things.
 I have experience in quite an amount of languages and frameworks and always enjoy to learn something new.
 
 - 🔭 I’m currently working on several Minecraft related projects (server plugins).
-- 🌱 Currently in my fourth year and last semester of **Computer Science**.
 - ⭐ I code and have experience in various languages such as JavaScript, Java, C#, PHP.
 
 » You can reach and contact me directly through my discord account or public development discord server:  
-**M0dii#2719** or **https://discord.com/invite/ZSzJTSWxmv**
+**@M0dii** or **https://discord.com/invite/ZSzJTSWxmv**
 
 » You can find my minecraft plugins on my SpigotMC page:  
 https://www.spigotmc.org/resources/authors/m0dii.450794/

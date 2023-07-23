@@ -61,6 +61,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 ##### Average
 - [SQL](https://www.w3schools.com/sql/)
 - [Python](https://www.python.org/)
+- [React](https://reactjs.org/)
 
 ##### Fundamentals
 - [Go](https://go.dev/)
@@ -72,7 +73,6 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Haskell](https://www.haskell.org/)
 - [Kotlin](https://kotlinlang.org/)
 - [Rust](https://www.rust-lang.org/)
-- [React](https://reactjs.org/)
 - [Vue](https://vuejs.org/)
 
 <p class="center">

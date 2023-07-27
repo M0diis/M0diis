@@ -56,7 +56,8 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Java](https://docs.oracle.com/en/java/), [Gradle](https://docs.gradle.org/current/userguide/userguide.html), [Maven](https://maven.apache.org/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [Node](https://nodejs.org/en/)/[NPM](https://www.npmjs.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [PHP](https://www.php.net/) ([Composer](https://getcomposer.org/), [Symfony](https://symfony.com/))
+- [PHP](https://www.php.net/)
+- [Symfony](https://symfony.com/)
 
 ##### Average
 - [SQL](https://www.w3schools.com/sql/)
@@ -68,6 +69,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 - [Typescript](https://www.typescriptlang.org/)
+- [Laravel](https://laravel.com/)
 
 #### Planning to learn:
 - [Haskell](https://www.haskell.org/)

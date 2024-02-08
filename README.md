@@ -52,7 +52,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 #### 🧩 Programming languages
 
 ##### Advanced
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0), [Framework](https://learn.microsoft.com/en-us/dotnet/framework/)
 - [Java](https://docs.oracle.com/en/java/), [Gradle](https://docs.gradle.org/current/userguide/userguide.html), [Maven](https://maven.apache.org/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [Node](https://nodejs.org/en/)/[NPM](https://www.npmjs.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)

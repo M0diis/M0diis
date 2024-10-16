@@ -3,15 +3,9 @@
 ### Hello 👋
 
 I have experience in quite an amount of languages and frameworks and always enjoy to learn something new.
-
-- 🔭 I’m currently working on several Minecraft related projects (server plugins).
 - ⭐ I code and have experience in various languages such as JavaScript, Java, C#, PHP.
-
-» You can reach and contact me directly through my discord account or public development discord server:  
+- You can reach and contact me directly through my discord account or public development discord server:  
 **@M0dii** or **https://discord.com/invite/ZSzJTSWxmv**
-
-» You can find my minecraft plugins on my SpigotMC page:  
-https://www.spigotmc.org/resources/authors/m0dii.450794/
 
 #### 👨🏻‍💻 Tools and Software I use and/or am familar with
 
@@ -21,6 +15,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Rider](https://www.jetbrains.com/rider/)
 - [Notepad++](https://notepad-plus-plus.org) & [VS2019 Dark NPP Theme](https://github.com/hellon8/VS2019-Dark-Npp)
 - [Sublime Text](https://www.sublimetext.com/)
+- [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Datalore](https://datalore.jetbrains.com/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [AutoHotkey](https://www.autohotkey.com)
@@ -36,7 +31,7 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Github Desktop](https://desktop.github.com/)
 
-##### Other
+##### Other things that I've used
 
 - [PhpMyAdmin](https://www.phpmyadmin.net/)
 - [pgAdmin](https://www.pgadmin.org/)
@@ -48,6 +43,18 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Ubuntu](https://ubuntu.com/)
 - [Debian](https://www.debian.org/)
 - [Windows 10](https://www.microsoft.com/en-in/software-download/windows10)
+- [PayPal Developer API](https://developer.paypal.com/api/rest/)
+- [Discord JDA](https://github.com/discord-jda/JDA)
+- [Discord.JS](https://discord.js.org/)
+- [Chart.JS](https://www.chartjs.org/)
+- [Material UI](https://mui.com/material-ui/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Marked.JS](https://marked.js.org/)
+- [Emotion Styled](https://emotion.sh/docs/styled)
+- [Inertia.JS](https://inertiajs.com/)
+- [PaySera WebToPay](https://github.com/paysera/lib-webtopay)
+- [Axios HTTP](https://axios-http.com/docs/intro)
+- [Spatie Laravel Data](https://spatie.be/docs/laravel-data/v4/introduction)
 
 #### 🧩 Programming languages
 
@@ -57,21 +64,21 @@ https://www.spigotmc.org/resources/authors/m0dii.450794/
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [Node](https://nodejs.org/en/)/[NPM](https://www.npmjs.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [PHP](https://www.php.net/)
-- [Symfony](https://symfony.com/)
+- [Laravel](https://laravel.com/)
 
 ##### Average
 - [SQL](https://www.w3schools.com/sql/)
 - [Python](https://www.python.org/)
 - [React](https://reactjs.org/)
+- [Symfony](https://symfony.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ##### Fundamentals
 - [Go](https://go.dev/)
 - [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
-- [Typescript](https://www.typescriptlang.org/)
-- [Laravel](https://laravel.com/)
 
-#### Planning to learn:
+#### Planning to learn
 - [Haskell](https://www.haskell.org/)
 - [Kotlin](https://kotlinlang.org/)
 - [Rust](https://www.rust-lang.org/)

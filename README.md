@@ -74,15 +74,18 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [Typescript](https://www.typescriptlang.org/)
 
 ##### Fundamentals
+- [Kotlin](https://kotlinlang.org/)
 - [Go](https://go.dev/)
 - [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 
+##### Briefly familiarized
+- [Angular](https://angular.dev/)
+- [Vue](https://vuejs.org/)
+
 #### Planning to learn
 - [Haskell](https://www.haskell.org/)
-- [Kotlin](https://kotlinlang.org/)
 - [Rust](https://www.rust-lang.org/)
-- [Vue](https://vuejs.org/)
 
 <p class="center">
   <img src="https://github.com/M0diis/M0diis/blob/output/generated/overview.svg">

@@ -61,6 +61,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [ExpressJS](https://expressjs.com/)
 - [Javalin](https://javalin.io)
 - [Swagger](https://swagger.io)
+- [OpenStreetMap API](https://wiki.openstreetmap.org/wiki/API)
 
 #### 🧩 Programming languages
 

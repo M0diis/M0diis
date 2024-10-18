@@ -9,7 +9,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 
 👀 https://m0dii-dev.xyz/tools
 
-#### 👨🏻‍💻 Tools and Software I use and/or am familar with
+#### 👨🏻‍💻 Main Tools and Software I use / familiar with
 
 - [VSCode](https://code.visualstudio.com) & [Tokyo Night Theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) & [Visual Studio Dark Plus Theme](https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme)
@@ -25,7 +25,6 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [AltDrag](https://stefansundin.github.io/altdrag)
 - [Ueli](https://ueli.app)
 - [Ditto](https://ditto-cp.sourceforge.io)
-- [Unity](https://unity.com/)
 - [Docker](https://www.docker.com/)
 - [Postman](https://www.postman.com/)
 - [DBeaver](https://dbeaver.io/)
@@ -33,11 +32,15 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Github Desktop](https://desktop.github.com/)
 
-##### Other things that I've used
+##### Other
 
-- [PhpMyAdmin](https://www.phpmyadmin.net/)
+- [phpMyAdmin](https://www.phpmyadmin.net/)
 - [pgAdmin](https://www.pgadmin.org/)
-- [XAMPP](https://www.apachefriends.org/index.html)
+- [nginx](https://nginx.org/en/)
+- [HTTPD Apache)[https://httpd.apache.org]
+- [Caddy](https://caddyserver.com)
+- [Certbot](https://certbot.eff.org)
+- [XAMPP/LAMPP](https://www.apachefriends.org/index.html)
 - [Git](https://git-scm.com/)
 - [Jira](https://www.atlassian.com/software/jira)
 - [Bash](https://www.gnu.org/software/bash/) 
@@ -62,8 +65,10 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [Javalin](https://javalin.io)
 - [Swagger](https://swagger.io)
 - [OpenStreetMap API](https://wiki.openstreetmap.org/wiki/API)
+- [Unity](https://unity.com/)
+- [Blender](https://blender.org)
 
-#### 🧩 Programming languages
+#### 🧩 Programming languages / Frameworks
 
 ##### Advanced
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0), [Framework](https://learn.microsoft.com/en-us/dotnet/framework/)

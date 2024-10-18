@@ -37,7 +37,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [pgAdmin](https://www.pgadmin.org/)
 - [nginx](https://nginx.org/en/)
-- [HTTPD Apache)[https://httpd.apache.org]
+- [HTTPD Apache](https://httpd.apache.org)
 - [Caddy](https://caddyserver.com)
 - [Certbot](https://certbot.eff.org)
 - [XAMPP/LAMPP](https://www.apachefriends.org/index.html)

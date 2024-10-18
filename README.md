@@ -57,6 +57,7 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [PaySera WebToPay](https://github.com/paysera/lib-webtopay)
 - [Axios HTTP](https://axios-http.com/docs/intro)
 - [Spatie Laravel Data](https://spatie.be/docs/laravel-data/v4/introduction)
+- [PostHog](https://posthog.com/)
 
 #### 🧩 Programming languages
 

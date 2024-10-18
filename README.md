@@ -48,16 +48,19 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [PayPal Developer API](https://developer.paypal.com/api/rest/)
 - [Discord JDA](https://github.com/discord-jda/JDA)
 - [Discord.JS](https://discord.js.org/)
-- [Chart.JS](https://www.chartjs.org/)
+- [ChartJS](https://www.chartjs.org/)
 - [Material UI](https://mui.com/material-ui/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [Marked.JS](https://marked.js.org/)
+- [MarkedJS](https://marked.js.org/)
 - [Emotion Styled](https://emotion.sh/docs/styled)
-- [Inertia.JS](https://inertiajs.com/)
+- [InertiaJS](https://inertiajs.com/)
 - [PaySera WebToPay](https://github.com/paysera/lib-webtopay)
 - [Axios HTTP](https://axios-http.com/docs/intro)
 - [Spatie Laravel Data](https://spatie.be/docs/laravel-data/v4/introduction)
 - [PostHog](https://posthog.com/)
+- [ExpressJS](https://expressjs.com/)
+- [Javalin](https://javalin.io)
+- [Swagger](https://swagger.io)
 
 #### 🧩 Programming languages
 

@@ -75,6 +75,9 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [CasaOS](https://casaos.zimaspace.com/)
 - [Organizr](https://github.com/causefx/Organizr)
 - [Netdata](https://www.netdata.cloud/)
+- [Paperless-ngx](https://docs.paperless-ngx.com/)
+- [linkding](https://linkding.link/)
+- [Monitorr](https://github.com/Monitorr/Monitorr)
 
 #### 🧩 Programming languages / Frameworks
 

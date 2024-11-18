@@ -68,6 +68,14 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [Unity](https://unity.com/)
 - [Blender](https://blender.org)
 
+##### Selfhosting
+
+- [Pi-hole](https://pi-hole.net/)
+- [Plex](https://www.plex.tv/)
+- [CasaOS](https://casaos.zimaspace.com/)
+- [Organizr](https://github.com/causefx/Organizr)
+- [Netdata](https://www.netdata.cloud/)
+
 #### 🧩 Programming languages / Frameworks
 
 ##### Advanced

@@ -67,6 +67,8 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [OpenStreetMap API](https://wiki.openstreetmap.org/wiki/API)
 - [Unity](https://unity.com/)
 - [Blender](https://blender.org)
+- [Laravel Echo](https://laravel.com/docs/11.x/broadcasting)
+- [Pusher](https://pusher.com/laravel/)
 
 ##### Selfhosting
 
@@ -78,6 +80,8 @@ I have experience in quite an amount of languages and frameworks and always enjo
 - [Paperless-ngx](https://docs.paperless-ngx.com/)
 - [linkding](https://linkding.link/)
 - [Monitorr](https://github.com/Monitorr/Monitorr)
+- [Uptime Kuma](https://uptime.kuma.pet/)
+- [Immich](https://immich.app/)
 
 #### 🧩 Programming languages / Frameworks
 

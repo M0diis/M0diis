@@ -70,7 +70,7 @@ Hello! I'm a passionate developer with experience in a wide range of languages a
 - **[Visual Studio](https://visualstudio.microsoft.com/vs)** with [ReSharper](https://www.jetbrains.com/resharper/)
 - **[JetBrains Suite](https://www.jetbrains.com/)** - Rider, DataGrip, Datalore, PhpStorm
 
-### 🔧 Essential Tools
+### Essential Tools
 - **Version Control:** [Git](https://git-scm.com/), [GitHub Desktop](https://desktop.github.com/)
 - **API Development:** [Postman](https://www.postman.com/), [Swagger](https://swagger.io)
 - **Database Management:** [DBeaver](https://dbeaver.io/), [TablePlus](https://tableplus.com/), [DataGrip](https://www.jetbrains.com/datagrip/)
